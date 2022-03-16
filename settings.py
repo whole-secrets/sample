@@ -1,2 +1,2 @@
-password="dgnfj1AB2C3xk"
-username="michel_do1"
+service_password="dgnfj1AB2C3xd"
+service_username="michel_do2"
